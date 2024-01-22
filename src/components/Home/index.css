@@ -1,0 +1,23 @@
+.home-container {
+  height: 100vh;
+  background-color: #152850;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 42px;
+  color: #ffffff;
+}
+.digit-card {
+  height: 300px;
+  width: 500px;
+}
+.container {
+  text-align: center;
+}
